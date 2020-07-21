@@ -1,0 +1,109 @@
+html{
+    background-color: #F8F8F8;
+    font-family: 'Roboto', sans-serif;
+}
+
+.input-standar {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.input-standar input {
+    border-bottom: 0px !important;
+}
+
+.search-style {
+    margin-left: -30px;
+}
+
+.jobs{
+    font-size: 12px;
+}
+
+.rating{
+    color: #FFB636;
+    font-size: 15px;
+}
+
+.sub-judul{
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.my-card{
+    box-shadow: none !important;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+}
+
+.number-data{
+    color: #EE2E27;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.title-sm{
+    color: #CDCDCD;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.subordinate{
+    background-color: #EE2E27;
+    border-radius: 5px;
+    height: 50px;
+}
+
+.subordinate-data{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.subordinate-data-secondary{
+    color: #E2E2E2;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.subordinate-default{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    height: 50px;
+}
+
+.mini-secondary{
+    font-size: 10px ;
+    color: #95a5a6;
+}
+
+.mini-date{
+    font-size: 12px;
+}
+
+.secondary-text{
+    font-size: 10px;
+}
+
+.my-footer{
+    background-color:#FFFFFF;
+    color: red !important;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer a{
+    color:#95a5a6;
+}
+
+.active{
+    color: red;
+}
+
+.space{
+    margin-bottom: 100px;
+}
