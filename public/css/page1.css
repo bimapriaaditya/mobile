@@ -22,6 +22,11 @@ html{
     margin-top: -10px;
 }
 
+.my-btn{
+    text-transform: none; 
+    font-size: 12px;
+}
+
 .jobs{
     font-size: 12px;
 }
