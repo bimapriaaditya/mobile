@@ -35,7 +35,13 @@ html{
     box-shadow: none !important;
     text-align: center;
     width: 100%;
-    height: 100px;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.card .card-content {
+    padding: 10px;
+    border-radius: 0 0 2px 2px;
 }
 
 .number-data{
@@ -73,6 +79,16 @@ html{
     height: 50px;
 }
 
+.action-hr{
+    background-color: inherit;
+    border-top: 1px solid rgba(160,160,160,0.2);
+    position: relative;
+}
+
+.manymore{
+    color: #95a5a6 !important;
+}
+
 .mini-secondary{
     font-size: 10px ;
     color: #95a5a6;
@@ -80,10 +96,16 @@ html{
 
 .mini-date{
     font-size: 12px;
+    padding-top: 15%;
+}
+
+.top-name{
+    color: black !important;
 }
 
 .secondary-text{
-    font-size: 10px;
+    font-size: 10px !important;
+    color: #95a5a6 !important;
 }
 
 .my-footer{
