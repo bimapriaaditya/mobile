@@ -17,6 +17,11 @@ html{
     margin-left: -30px;
 }
 
+.first-name{
+    font-weight: bolder;
+    margin-top: -10px;
+}
+
 .jobs{
     font-size: 12px;
 }
@@ -47,7 +52,7 @@ html{
 .number-data{
     color: #EE2E27;
     font-weight: bolder;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .title-sm{
@@ -67,18 +72,6 @@ html{
     padding-top: 15px;
 }
 
-.subordinate-data-secondary{
-    color: #E2E2E2;
-    text-align: center;
-    padding-top: 15px;
-}
-
-.subordinate-default{
-    background-color: #FFFFFF;
-    border-radius: 5px;
-    height: 50px;
-}
-
 .action-hr{
     background-color: inherit;
     border-top: 1px solid rgba(160,160,160,0.2);
@@ -96,7 +89,9 @@ html{
 
 .mini-date{
     font-size: 12px;
-    padding-top: 15%;
+    font-weight: bolder;
+    height: 50px;
+    line-height: 50px;
 }
 
 .top-name{
